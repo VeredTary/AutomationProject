@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="125228" started-at="2020-08-15T11:29:11Z" finished-at="2020-08-15T11:31:16Z">
+    <groups>
+    </groups>
+    <test name="Web Tests" duration-ms="125228" started-at="2020-08-15T11:29:11Z" finished-at="2020-08-15T11:31:16Z">
+      <class name="SanityTests.automationpracticeWeb">
+        <test-method status="PASS" signature="StartSession(java.lang.String)[pri:0, instance:SanityTests.automationpracticeWeb@f713686]" name="StartSession" is-config="true" duration-ms="12462" started-at="2020-08-15T11:29:11Z" finished-at="2020-08-15T11:29:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[web]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSession -->
+        <test-method status="PASS" signature="Test01_SignUp()[pri:0, instance:SanityTests.automationpracticeWeb@f713686]" name="Test01_SignUp" duration-ms="27751" started-at="2020-08-15T11:29:24Z" description="Test01: User Registration to Automation Practice" finished-at="2020-08-15T11:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_SignUp -->
+        <test-method status="PASS" signature="Test02_SignOutAndIn()[pri:0, instance:SanityTests.automationpracticeWeb@f713686]" name="Test02_SignOutAndIn" duration-ms="9766" started-at="2020-08-15T11:29:51Z" description="Test02: User SignOut and then Signin to Automation Practice" finished-at="2020-08-15T11:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02_SignOutAndIn -->
+        <test-method status="PASS" signature="Test03_Products()[pri:0, instance:SanityTests.automationpracticeWeb@f713686]" name="Test03_Products" duration-ms="63687" started-at="2020-08-15T11:30:01Z" description="Test03: User Chooses Wearing Products" finished-at="2020-08-15T11:31:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03_Products -->
+        <test-method status="PASS" signature="Test04_EditInfo()[pri:0, instance:SanityTests.automationpracticeWeb@f713686]" name="Test04_EditInfo" duration-ms="9025" started-at="2020-08-15T11:31:05Z" description="Test04: User Edits Information" finished-at="2020-08-15T11:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test04_EditInfo -->
+        <test-method status="PASS" signature="Test05_VerifyLogo()[pri:0, instance:SanityTests.automationpracticeWeb@f713686]" name="Test05_VerifyLogo" duration-ms="1283" started-at="2020-08-15T11:31:14Z" description="Test05: Verify Logo" finished-at="2020-08-15T11:31:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test05_VerifyLogo -->
+        <test-method status="PASS" signature="EndSession()[pri:0, instance:SanityTests.automationpracticeWeb@f713686]" name="EndSession" is-config="true" duration-ms="986" started-at="2020-08-15T11:31:15Z" finished-at="2020-08-15T11:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndSession -->
+      </class> <!-- SanityTests.automationpracticeWeb -->
+    </test> <!-- Web Tests -->
+  </suite> <!-- Suite -->
+</testng-results>

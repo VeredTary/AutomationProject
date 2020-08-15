@@ -1,0 +1,111 @@
+[ {
+  "uid" : "4f754ff9271c265d",
+  "name" : "Test05: Verify Logo",
+  "time" : {
+    "start" : 1597491074455,
+    "stop" : 1597491075737,
+    "duration" : 1282
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1daf5f81ee50a6b",
+  "name" : "Test04: User Edits Information",
+  "time" : {
+    "start" : 1597491065430,
+    "stop" : 1597491074452,
+    "duration" : 9022
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2525e2392b18f231",
+  "name" : "Test04: Delete and Verify Team",
+  "time" : {
+    "start" : 1597490716948,
+    "stop" : 1597490717079,
+    "duration" : 131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80125dabc028b27e",
+  "name" : "Test02: User SignOut and then Signin to Automation Practice",
+  "time" : {
+    "start" : 1597490991971,
+    "stop" : 1597491001734,
+    "duration" : 9763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e590b7019fc1bef",
+  "name" : "Test01: Get Admin's Details from Grafana Server",
+  "time" : {
+    "start" : 1597490712414,
+    "stop" : 1597490716355,
+    "duration" : 3941
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2371116fef5334f1",
+  "name" : "Verify Electron App Version Number",
+  "time" : {
+    "start" : 1597490912068,
+    "stop" : 1597490912555,
+    "duration" : 487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cd333c681ccafb6",
+  "name" : "Test02: Add and Verify a New Team",
+  "time" : {
+    "start" : 1597490716592,
+    "stop" : 1597490716825,
+    "duration" : 233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b4e002803baf434",
+  "name" : "Test03: User Chooses Wearing Products",
+  "time" : {
+    "start" : 1597491001738,
+    "stop" : 1597491065423,
+    "duration" : 63685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c35454e9234e0c91",
+  "name" : "Getting Name and LastName from Employees DB",
+  "time" : {
+    "start" : 1597490879562,
+    "stop" : 1597490879831,
+    "duration" : 269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5af14946d28efca2",
+  "name" : "Test01: User Registration to Automation Practice",
+  "time" : {
+    "start" : 1597490964049,
+    "stop" : 1597490991755,
+    "duration" : 27706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b5a3e0fe0f9511b",
+  "name" : "Test03: Update and Verify Existing Team",
+  "time" : {
+    "start" : 1597490716831,
+    "stop" : 1597490716942,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

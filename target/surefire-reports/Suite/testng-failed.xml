@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="DB Tests(failed)">
+    <parameter name="PlatformName" value="web"/>
+    <classes>
+      <class name="SanityTests.EmployeesDB">
+        <methods>
+          <include name="StartSession"/>
+          <include name="Test01_EmployeesDB"/>
+          <include name="EndSession"/>
+        </methods>
+      </class> <!-- SanityTests.EmployeesDB -->
+    </classes>
+  </test> <!-- DB Tests(failed) -->
+</suite> <!-- Failed suite [Suite] -->

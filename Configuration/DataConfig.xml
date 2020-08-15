@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--Timeout-->
+    <TimeOut>5</TimeOut>
+
+    <!--Web-->
+    <BrowserName>Chrome</BrowserName>
+    <url>http://automationpractice.com/</url>
+    <ImageRepo>./ImageRepository/</ImageRepo>
+
+    <!--Mobile-->
+    <UDID>988a1b385934434a52</UDID>
+    <APP_PACKAGE>com.experitest.ExperiBank</APP_PACKAGE>
+    <APP_ACTIVITY>.LoginActivity</APP_ACTIVITY>
+
+    <!--API-->
+    <url_api>http://localhost:3000/</url_api>
+
+    <!--API Credentials-->
+    <user>admin</user>
+    <password>admin</password>
+
+    <!--Electron-->
+    <ElectronDriverPath>./Drivers/electrondriver.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/Electron/Electron API Demos-win32-ia32/Electron API Demos.exe</ElectronAppPath>
+
+    <!--Desktop-->
+    <Alarm_App>Microsoft.WindowsAlarms_8wekyb3d8bbwe!App</Alarm_App>
+    <Appuim_Server>http://127.0.0.1:4723</Appuim_Server>
+
+    <!--DB-->
+    <dbURL>jdbc:mysql://remotemysql.com:3306/RBiKkBvnZh</dbURL>
+    <dbUser>RBiKkBvnZh</dbUser>
+    <dbPassword>Zb9YigO1Di</dbPassword>
+
+</Environment>

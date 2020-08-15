@@ -1,0 +1,1328 @@
+{
+  "uid" : "5b4e002803baf434",
+  "name" : "Test03: User Chooses Wearing Products",
+  "fullName" : "SanityTests.automationpracticeWeb.Test03_Products",
+  "historyId" : "19ed7f00d8c00595e515150a3dac0e99",
+  "time" : {
+    "start" : 1597491001738,
+    "stop" : 1597491065423,
+    "duration" : 63685
+  },
+  "description" : "Test Description: User Chooses Blouse, TShirt and Dress to Purchase",
+  "descriptionHtml" : "<p>Test Description: User Chooses Blouse, TShirt and Dress to Purchase</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1597490951560,
+      "stop" : 1597490963990,
+      "duration" : 12430
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Test Description: User Chooses Blouse, TShirt and Dress to Purchase",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Main Page - Blouse Product",
+      "time" : {
+        "start" : 1597491001739,
+        "stop" : 1597491021398,
+        "duration" : 19659
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491001739,
+          "stop" : 1597491001745,
+          "duration" : 6
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "400"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491001755,
+          "stop" : 1597491001823,
+          "duration" : 68
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> class name: bx-next]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491001836,
+          "stop" : 1597491004519,
+          "duration" : 2683
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='homeslider']/li[3]/div/p[2]/button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491004958,
+          "stop" : 1597491004981,
+          "duration" : 23
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "300"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Mouse Over to Element",
+        "time" : {
+          "start" : 1597491005015,
+          "stop" : 1597491005717,
+          "duration" : 702
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem1",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id=\"homefeatured\"]/li[2]/div/div[1]/div/a[1]/img]"
+        }, {
+          "name" : "Elem2",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id=\"homefeatured\"]/li[2]/div/div[2]/div[2]/a[2]]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491005717,
+          "stop" : 1597491005738,
+          "duration" : 21
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "300"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491006541,
+          "stop" : 1597491006640,
+          "duration" : 99
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id=\"view_full_size\"]/span]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491007539,
+          "stop" : 1597491007582,
+          "duration" : 43
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id=\"product\"]/div[2]/div/a]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491007593,
+          "stop" : 1597491008086,
+          "duration" : 493
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> class name: icon-plus]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491008101,
+          "stop" : 1597491008165,
+          "duration" : 64
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='group_1']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491008184,
+          "stop" : 1597491008254,
+          "duration" : 70
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> id: color_8]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491008269,
+          "stop" : 1597491008318,
+          "duration" : 49
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='add_to_cart']/button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491008332,
+          "stop" : 1597491010310,
+          "duration" : 1978
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='layer_cart']/div[1]/div[2]/div[4]/span]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491010323,
+          "stop" : 1597491010368,
+          "duration" : 45
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> id: wishlist_button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491012883,
+          "stop" : 1597491012928,
+          "duration" : 45
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='product']/div[2]/div/div/a]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491012941,
+          "stop" : 1597491013472,
+          "duration" : 531
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> class name: open-comment-form]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Adding Text to the Field ",
+        "time" : {
+          "start" : 1597491013491,
+          "stop" : 1597491013582,
+          "duration" : 91
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='comment_title']]"
+        }, {
+          "name" : "Value",
+          "value" : "White Blouse"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Adding Text to the Field ",
+        "time" : {
+          "start" : 1597491013594,
+          "stop" : 1597491013678,
+          "duration" : 84
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='content']]"
+        }, {
+          "name" : "Value",
+          "value" : "Very Nice Blouse"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491013690,
+          "stop" : 1597491013740,
+          "duration" : 50
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='submitNewMessage']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491016221,
+          "stop" : 1597491021398,
+          "duration" : 5177
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='product']/div[2]/div/div/div/p[2]/button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Value",
+        "value" : "White Blouse"
+      }, {
+        "name" : "Value02",
+        "value" : "Very Nice Blouse"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 20
+    }, {
+      "name" : "Evening Dress Product",
+      "time" : {
+        "start" : 1597491021399,
+        "stop" : 1597491042633,
+        "duration" : 21234
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491021416,
+          "stop" : 1597491023829,
+          "duration" : 2413
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='block_top_menu']/ul/li[2]/a]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491023829,
+          "stop" : 1597491023837,
+          "duration" : 8
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "650"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491023858,
+          "stop" : 1597491027673,
+          "duration" : 3815
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='subcategories']/ul/li[2]/div[1]/a]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491027674,
+          "stop" : 1597491027681,
+          "duration" : 7
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "650"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Update Drop down Field",
+        "time" : {
+          "start" : 1597491027693,
+          "stop" : 1597491027803,
+          "duration" : 110
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='selectProductSort']]"
+        }, {
+          "name" : "Value",
+          "value" : "Product Name: A to Z"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491027821,
+          "stop" : 1597491027868,
+          "duration" : 47
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> class name: icon-th-list]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491027882,
+          "stop" : 1597491030955,
+          "duration" : 3073
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='center_column']/ul/li/div/div/div[3]/div/div[2]/a[2]]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Update Drop down Field",
+        "time" : {
+          "start" : 1597491030970,
+          "stop" : 1597491031063,
+          "duration" : 93
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='group_1']]"
+        }, {
+          "name" : "Value",
+          "value" : "M"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491031076,
+          "stop" : 1597491031135,
+          "duration" : 59
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> id: color_24]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491031161,
+          "stop" : 1597491031216,
+          "duration" : 55
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='add_to_cart']/button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491031231,
+          "stop" : 1597491032042,
+          "duration" : 811
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='layer_cart']/div[1]/div[1]/span]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491032054,
+          "stop" : 1597491033764,
+          "duration" : 1710
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='columns']/div[1]/a[4]]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491033764,
+          "stop" : 1597491033771,
+          "duration" : 7
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "650"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491033786,
+          "stop" : 1597491033835,
+          "duration" : 49
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> class name: add_to_compare]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491033847,
+          "stop" : 1597491036917,
+          "duration" : 3070
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='center_column']/div[2]/div[2]/form/button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491036917,
+          "stop" : 1597491036928,
+          "duration" : 11
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "1000"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491036940,
+          "stop" : 1597491042633,
+          "duration" : 5693
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='center_column']/ul/li/a]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Value",
+        "value" : "Product Name: A to Z"
+      }, {
+        "name" : "Value02",
+        "value" : "M"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 17
+    }, {
+      "name" : "TShirt Product",
+      "time" : {
+        "start" : 1597491042633,
+        "stop" : 1597491065356,
+        "duration" : 22723
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491042664,
+          "stop" : 1597491046921,
+          "duration" : 4257
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='block_top_menu']/ul/li[3]/a]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491046921,
+          "stop" : 1597491046951,
+          "duration" : 30
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "650"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491047413,
+          "stop" : 1597491048420,
+          "duration" : 1007
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> id: color_1]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491048420,
+          "stop" : 1597491048438,
+          "duration" : 18
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "750"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Update Drop down Field",
+        "time" : {
+          "start" : 1597491048742,
+          "stop" : 1597491048834,
+          "duration" : 92
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='group_1']]"
+        }, {
+          "name" : "Value",
+          "value" : "L"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491048845,
+          "stop" : 1597491048953,
+          "duration" : 108
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='add_to_cart']/button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491048966,
+          "stop" : 1597491050284,
+          "duration" : 1318
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='layer_cart']/div[1]/div[1]/span]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491050297,
+          "stop" : 1597491050378,
+          "duration" : 81
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> id: send_friend_button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Adding Text to the Field ",
+        "time" : {
+          "start" : 1597491050390,
+          "stop" : 1597491050478,
+          "duration" : 88
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='friend_name']]"
+        }, {
+          "name" : "Value",
+          "value" : "Sharon"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Adding Text to the Field ",
+        "time" : {
+          "start" : 1597491050494,
+          "stop" : 1597491050621,
+          "duration" : 127
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='friend_email']]"
+        }, {
+          "name" : "Value",
+          "value" : "Sharon@gmail.com"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491050647,
+          "stop" : 1597491050710,
+          "duration" : 63
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='sendEmail']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491054324,
+          "stop" : 1597491054381,
+          "duration" : 57
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='product']/div[2]/div/div/div/p[2]/input]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Page Scroll Down",
+        "time" : {
+          "start" : 1597491054381,
+          "stop" : 1597491054388,
+          "duration" : 7
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "x",
+          "value" : "0"
+        }, {
+          "name" : "y",
+          "value" : "650"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491054398,
+          "stop" : 1597491054667,
+          "duration" : 269
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> id: new_comment_tab_btn]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Adding Text to the Field ",
+        "time" : {
+          "start" : 1597491054679,
+          "stop" : 1597491054762,
+          "duration" : 83
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='comment_title']]"
+        }, {
+          "name" : "Value",
+          "value" : "BlueT-Shirt"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Adding Text to the Field ",
+        "time" : {
+          "start" : 1597491054772,
+          "stop" : 1597491054865,
+          "duration" : 93
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='content']]"
+        }, {
+          "name" : "Value",
+          "value" : "Very good shirt, Exactly my size"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491054877,
+          "stop" : 1597491054927,
+          "duration" : 50
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='submitNewMessage']]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491058563,
+          "stop" : 1597491058608,
+          "duration" : 45
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='product']/div[2]/div/a]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1597491058618,
+          "stop" : 1597491065356,
+          "duration" : 6738
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Elem",
+          "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> class name: icon-home]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Size",
+        "value" : "L"
+      }, {
+        "name" : "NameFriend",
+        "value" : "Sharon"
+      }, {
+        "name" : "EmailFriend",
+        "value" : "Sharon@gmail.com"
+      }, {
+        "name" : "TitleReview",
+        "value" : "BlueT-Shirt"
+      }, {
+        "name" : "CommentReview",
+        "value" : "Very good shirt, Exactly my size"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 19
+    }, {
+      "name" : "Verify Element is Displayed",
+      "time" : {
+        "start" : 1597491065394,
+        "stop" : 1597491065423,
+        "duration" : 29
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Elem",
+        "value" : "[[ChromeDriver: chrome on XP (3bb5c0a21c2588e56a0d126bdf60686b)] -> xpath: //*[@id='center_column']/ul/li/a]"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 60
+  },
+  "afterStages" : [ {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1597491075739,
+      "stop" : 1597491076724,
+      "duration" : 985
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.automationpracticeWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.automationpracticeWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test03_Products"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.automationpracticeWeb"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5CEH4ICU"
+  }, {
+    "name" : "thread",
+    "value" : "29036@LAPTOP-5CEH4ICU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 4,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "c8726d1b3c846afd",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/38/allure/#testresult/c8726d1b3c846afd",
+        "status" : "broken",
+        "statusDetails" : "no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"bx-next\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.05 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57920}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir29944_34737309}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: ea685b50dc2aa7a2192522e146e091b9\n*** Element info: {Using=class name, value=bx-next}",
+        "time" : {
+          "start" : 1597321774294,
+          "stop" : 1597321784826,
+          "duration" : 10532
+        }
+      }, {
+        "uid" : "b1752818ba8c30be",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/37/allure/#testresult/b1752818ba8c30be",
+        "status" : "broken",
+        "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 110 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57420}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir10812_1352747831}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: 44f57fd52e802b883d53cc165a421151",
+        "time" : {
+          "start" : 1597321553055,
+          "stop" : 1597321596249,
+          "duration" : 43194
+        }
+      }, {
+        "uid" : "ec26f2bb36be1b47",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/36/allure/#testresult/ec26f2bb36be1b47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597318893837,
+          "stop" : 1597318941499,
+          "duration" : 47662
+        }
+      }, {
+        "uid" : "a08b34931e8a2dc4",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/35/allure/#testresult/a08b34931e8a2dc4",
+        "status" : "broken",
+        "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 344 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55379}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir15608_618723791}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: b85f2f7c059e6614a710407f9853b0ae",
+        "time" : {
+          "start" : 1597318669610,
+          "stop" : 1597318710556,
+          "duration" : 40946
+        }
+      }, {
+        "uid" : "876d08cb9e30bea6",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/34/allure/#testresult/876d08cb9e30bea6",
+        "status" : "broken",
+        "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 441 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55119}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir6724_1616252959}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: 895e8bcfb823da8b2c8170fa35ad9e4c",
+        "time" : {
+          "start" : 1597318533188,
+          "stop" : 1597318574111,
+          "duration" : 40923
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5b4e002803baf434.json",
+  "parameterValues" : [ "web" ]
+}

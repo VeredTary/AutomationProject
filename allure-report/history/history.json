@@ -1,0 +1,1322 @@
+{
+  "ad924012271deb863684c34697ae351a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c35454e9234e0c91",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/c35454e9234e0c91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597490879562,
+        "stop" : 1597490879831,
+        "duration" : 269
+      }
+    } ]
+  },
+  "60b8f98d6d9f4c3eb0cd50abfc65dfa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "639807cf9bd1dd1",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/33/allure/#testresult/639807cf9bd1dd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597306052862,
+        "stop" : 1597306053815,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "82da93d9a43790a9",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/32/allure/#testresult/82da93d9a43790a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597306052862,
+        "stop" : 1597306053815,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "3561322ae55f0b31",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/3561322ae55f0b31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130807171,
+        "stop" : 1597130810249,
+        "duration" : 3078
+      }
+    }, {
+      "uid" : "667971808137c52f",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/667971808137c52f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130807171,
+        "stop" : 1597130810249,
+        "duration" : 3078
+      }
+    }, {
+      "uid" : "1a2e9b0c1ff283f2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/1a2e9b0c1ff283f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130807171,
+        "stop" : 1597130810249,
+        "duration" : 3078
+      }
+    }, {
+      "uid" : "92c6973c70e59877",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/92c6973c70e59877",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130807171,
+        "stop" : 1597130810249,
+        "duration" : 3078
+      }
+    } ]
+  },
+  "a2ea27c5537ab3488c2088fd79b045f4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9cd333c681ccafb6",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/9cd333c681ccafb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597490716592,
+        "stop" : 1597490716825,
+        "duration" : 233
+      }
+    } ]
+  },
+  "3483863c27e4ea8a215b792ffa6565cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "80125dabc028b27e",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/80125dabc028b27e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597490991971,
+        "stop" : 1597491001734,
+        "duration" : 9763
+      }
+    }, {
+      "uid" : "ec2f439b78fada5b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/38/allure/#testresult/ec2f439b78fada5b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"logout\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.06 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57920}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir29944_34737309}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: ea685b50dc2aa7a2192522e146e091b9\n*** Element info: {Using=class name, value=logout}",
+      "time" : {
+        "start" : 1597321763664,
+        "stop" : 1597321774277,
+        "duration" : 10613
+      }
+    }, {
+      "uid" : "f78cb5d3949b747e",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/37/allure/#testresult/f78cb5d3949b747e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597321543438,
+        "stop" : 1597321553037,
+        "duration" : 9599
+      }
+    }, {
+      "uid" : "b5e695271ff274ce",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/36/allure/#testresult/b5e695271ff274ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318886381,
+        "stop" : 1597318893576,
+        "duration" : 7195
+      }
+    }, {
+      "uid" : "c2b41d2c93f9621b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/35/allure/#testresult/c2b41d2c93f9621b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318661329,
+        "stop" : 1597318669388,
+        "duration" : 8059
+      }
+    }, {
+      "uid" : "a208d69d099f32ee",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/34/allure/#testresult/a208d69d099f32ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318524043,
+        "stop" : 1597318532937,
+        "duration" : 8894
+      }
+    } ]
+  },
+  "31428be4c1258d17147f537d599e0473" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2371116fef5334f1",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/2371116fef5334f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597490912068,
+        "stop" : 1597490912555,
+        "duration" : 487
+      }
+    }, {
+      "uid" : "570c117c759cf09c",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/34/allure/#testresult/570c117c759cf09c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318474531,
+        "stop" : 1597318475494,
+        "duration" : 963
+      }
+    } ]
+  },
+  "a97cbad652b9b05d8f72711ffddf5798" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "c1daf5f81ee50a6b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/c1daf5f81ee50a6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597491065430,
+        "stop" : 1597491074452,
+        "duration" : 9022
+      }
+    }, {
+      "uid" : "2d61c4c0eaeed5d3",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/38/allure/#testresult/2d61c4c0eaeed5d3",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.06 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57920}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir29944_34737309}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: ea685b50dc2aa7a2192522e146e091b9\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a}",
+      "time" : {
+        "start" : 1597321784835,
+        "stop" : 1597321797156,
+        "duration" : 12321
+      }
+    }, {
+      "uid" : "b79c414febc668d6",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/37/allure/#testresult/b79c414febc668d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597321596269,
+        "stop" : 1597321604693,
+        "duration" : 8424
+      }
+    }, {
+      "uid" : "39abceca7ba4feb5",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/36/allure/#testresult/39abceca7ba4feb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318941535,
+        "stop" : 1597318950664,
+        "duration" : 9129
+      }
+    }, {
+      "uid" : "e824aee2e19789aa",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/35/allure/#testresult/e824aee2e19789aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318710580,
+        "stop" : 1597318720716,
+        "duration" : 10136
+      }
+    }, {
+      "uid" : "abf63b9bd27f7dc4",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/34/allure/#testresult/abf63b9bd27f7dc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318574134,
+        "stop" : 1597318583548,
+        "duration" : 9414
+      }
+    } ]
+  },
+  "2f8dee40464c80cd85ff14074055d84b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2525e2392b18f231",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/2525e2392b18f231",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597490716948,
+        "stop" : 1597490717079,
+        "duration" : 131
+      }
+    } ]
+  },
+  "eb6b6212e2f577a63e80328c468cd484" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "4f754ff9271c265d",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/4f754ff9271c265d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597491074455,
+        "stop" : 1597491075737,
+        "duration" : 1282
+      }
+    }, {
+      "uid" : "c8d7946c0788295c",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/38/allure/#testresult/c8d7946c0788295c",
+      "status" : "failed",
+      "statusDetails" : "Images are not the same",
+      "time" : {
+        "start" : 1597321797163,
+        "stop" : 1597321798820,
+        "duration" : 1657
+      }
+    }, {
+      "uid" : "42cfdb444ee794d4",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/37/allure/#testresult/42cfdb444ee794d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597321604710,
+        "stop" : 1597321606480,
+        "duration" : 1770
+      }
+    }, {
+      "uid" : "2625f1e6761f5e30",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/36/allure/#testresult/2625f1e6761f5e30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318950682,
+        "stop" : 1597318951864,
+        "duration" : 1182
+      }
+    }, {
+      "uid" : "1aa03eaa4984c23",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/35/allure/#testresult/1aa03eaa4984c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318720732,
+        "stop" : 1597318721863,
+        "duration" : 1131
+      }
+    }, {
+      "uid" : "91f42c70f015bb94",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/34/allure/#testresult/91f42c70f015bb94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318583565,
+        "stop" : 1597318585243,
+        "duration" : 1678
+      }
+    } ]
+  },
+  "9412ac64584722caed8935f07d9f69f2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "38ff8feb6f71535b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/33/allure/#testresult/38ff8feb6f71535b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597306231287,
+        "stop" : 1597306238725,
+        "duration" : 7438
+      }
+    }, {
+      "uid" : "2d901173b9fe5180",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/32/allure/#testresult/2d901173b9fe5180",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Sign in\"}\n  (Session info: content shell=)\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.09 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir28448_14847}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 082ed87d0bf76545219faf04dd3ade07\n*** Element info: {Using=link text, value=Sign in}",
+      "time" : {
+        "start" : 1597306109415,
+        "stop" : 1597306120470,
+        "duration" : 11055
+      }
+    }, {
+      "uid" : "a0b3c9adf61cdabb",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/a0b3c9adf61cdabb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305444051,
+        "stop" : 1597305450912,
+        "duration" : 6861
+      }
+    }, {
+      "uid" : "8a675aa76b4acc1e",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/8a675aa76b4acc1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305444051,
+        "stop" : 1597305450912,
+        "duration" : 6861
+      }
+    }, {
+      "uid" : "2c98b9cb8f70eacf",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/2c98b9cb8f70eacf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305281648,
+        "stop" : 1597305288959,
+        "duration" : 7311
+      }
+    }, {
+      "uid" : "e7c9127582abbb17",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/e7c9127582abbb17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305152480,
+        "stop" : 1597305161196,
+        "duration" : 8716
+      }
+    }, {
+      "uid" : "19af20dcd2976f43",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/27/allure/#testresult/19af20dcd2976f43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597129831704,
+        "stop" : 1597129838771,
+        "duration" : 7067
+      }
+    }, {
+      "uid" : "71fa0b1148a9a6c9",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/26/allure/#testresult/71fa0b1148a9a6c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597124642978,
+        "stop" : 1597124648085,
+        "duration" : 5107
+      }
+    }, {
+      "uid" : "3834e9c9a3dcdb4a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/25/allure/#testresult/3834e9c9a3dcdb4a",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.support.ui.WebDriverWait.until(Lcom/google/common/base/Function;)Ljava/lang/Object;",
+      "time" : {
+        "start" : 1597124574410,
+        "stop" : 1597124576565,
+        "duration" : 2155
+      }
+    }, {
+      "uid" : "d66cd8b927dae309",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/24/allure/#testresult/d66cd8b927dae309",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.support.ui.WebDriverWait.until(Ljava/util/function/Function;)Ljava/lang/Object;",
+      "time" : {
+        "start" : 1597124174858,
+        "stop" : 1597124177175,
+        "duration" : 2317
+      }
+    }, {
+      "uid" : "8580fe7df39228c3",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/23/allure/#testresult/8580fe7df39228c3",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.support.ui.WebDriverWait.until(Ljava/util/function/Function;)Ljava/lang/Object;",
+      "time" : {
+        "start" : 1597123727793,
+        "stop" : 1597123730638,
+        "duration" : 2845
+      }
+    }, {
+      "uid" : "ef45134c3921bc3e",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/22/allure/#testresult/ef45134c3921bc3e",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.support.ui.WebDriverWait.until(Ljava/util/function/Function;)Ljava/lang/Object;",
+      "time" : {
+        "start" : 1597122795759,
+        "stop" : 1597122798788,
+        "duration" : 3029
+      }
+    } ]
+  },
+  "46790f8200f783ef443ca27498fc2b87" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 7,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "8da2e24a78a11a73",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/33/allure/#testresult/8da2e24a78a11a73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597306238959,
+        "stop" : 1597306289495,
+        "duration" : 50536
+      }
+    }, {
+      "uid" : "e4ea385979a711a5",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/32/allure/#testresult/e4ea385979a711a5",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"bx-next\"}\n  (Session info: content shell=)\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.03 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir28448_14847}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 082ed87d0bf76545219faf04dd3ade07\n*** Element info: {Using=class name, value=bx-next}",
+      "time" : {
+        "start" : 1597306120766,
+        "stop" : 1597306131242,
+        "duration" : 10476
+      }
+    }, {
+      "uid" : "8d66965f3e03008a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/8d66965f3e03008a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305451119,
+        "stop" : 1597305493750,
+        "duration" : 42631
+      }
+    }, {
+      "uid" : "c1cd0dfd1b352e83",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/c1cd0dfd1b352e83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305451119,
+        "stop" : 1597305493750,
+        "duration" : 42631
+      }
+    }, {
+      "uid" : "77f9b0a14cd82b03",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/77f9b0a14cd82b03",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"color_1\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.08 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:53827}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir14120_2146413013}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: 8d2d0d83585e82182796aeab9f77d15a\n*** Element info: {Using=id, value=color_1}",
+      "time" : {
+        "start" : 1597305289264,
+        "stop" : 1597305334537,
+        "duration" : 45273
+      }
+    }, {
+      "uid" : "8a950b8b1dce24db",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/8a950b8b1dce24db",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 227 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:53392}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir24104_485573423}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: ec283666cb0508af608339d892d257cc",
+      "time" : {
+        "start" : 1597305161467,
+        "stop" : 1597305198460,
+        "duration" : 36993
+      }
+    }, {
+      "uid" : "62c8c03d5b1c4247",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/27/allure/#testresult/62c8c03d5b1c4247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597129838910,
+        "stop" : 1597129879961,
+        "duration" : 41051
+      }
+    }, {
+      "uid" : "2e6e094f2765fcf9",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/26/allure/#testresult/2e6e094f2765fcf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597124648214,
+        "stop" : 1597124687048,
+        "duration" : 38834
+      }
+    }, {
+      "uid" : "cfb420b8e00fbbf2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/25/allure/#testresult/cfb420b8e00fbbf2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".bx\\-next\"}\n  (Session info: chrome=84.0.4147.89)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.89, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: C:\\Users\\vered\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50938}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 5a2b263dea56595108538a016dcbd556\n*** Element info: {Using=class name, value=bx-next}",
+      "time" : {
+        "start" : 1597124576668,
+        "stop" : 1597124587122,
+        "duration" : 10454
+      }
+    }, {
+      "uid" : "63d73227fa60d450",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/24/allure/#testresult/63d73227fa60d450",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"bx-next\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.02 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50639}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir27632_1793081088}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: bbc9eaee4e0172270a920b9d6569eb0a\n*** Element info: {Using=class name, value=bx-next}",
+      "time" : {
+        "start" : 1597124177378,
+        "stop" : 1597124187867,
+        "duration" : 10489
+      }
+    }, {
+      "uid" : "9e531cf675cdbb9d",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/23/allure/#testresult/9e531cf675cdbb9d",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"bx-next\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.04 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50575}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir19208_864034127}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: e7576c2089bd0b37125d132d325c37da\n*** Element info: {Using=class name, value=bx-next}",
+      "time" : {
+        "start" : 1597123730853,
+        "stop" : 1597123741288,
+        "duration" : 10435
+      }
+    }, {
+      "uid" : "623bf956154794cc",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/22/allure/#testresult/623bf956154794cc",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"bx-next\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.04 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49969}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir18900_154399942}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: baf4130a9786c82a8e530a30ee3ec239\n*** Element info: {Using=class name, value=bx-next}",
+      "time" : {
+        "start" : 1597122798953,
+        "stop" : 1597122809421,
+        "duration" : 10468
+      }
+    } ]
+  },
+  "b7586a533217e84551a82b6c84ccb998" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "de096f911468f964",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/de096f911468f964",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772247,
+        "stop" : 1597130772385,
+        "duration" : 138
+      }
+    }, {
+      "uid" : "d5200d3718af70c8",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/d5200d3718af70c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772247,
+        "stop" : 1597130772385,
+        "duration" : 138
+      }
+    }, {
+      "uid" : "d612b1275c52b43b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/d612b1275c52b43b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772247,
+        "stop" : 1597130772385,
+        "duration" : 138
+      }
+    }, {
+      "uid" : "e232289e889c91d7",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/e232289e889c91d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772247,
+        "stop" : 1597130772385,
+        "duration" : 138
+      }
+    } ]
+  },
+  "f18a49393cfc98fb059f61296f2e2f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "5af14946d28efca2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/5af14946d28efca2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597490964049,
+        "stop" : 1597490991755,
+        "duration" : 27706
+      }
+    }, {
+      "uid" : "639699cd1d66185f",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/38/allure/#testresult/639699cd1d66185f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"id\",\"selector\":\"id_gender2\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.07 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57920}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir29944_34737309}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: ea685b50dc2aa7a2192522e146e091b9\n*** Element info: {Using=id, value=id_gender2}",
+      "time" : {
+        "start" : 1597321749480,
+        "stop" : 1597321763446,
+        "duration" : 13966
+      }
+    }, {
+      "uid" : "9883b39668be613b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/37/allure/#testresult/9883b39668be613b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597321512669,
+        "stop" : 1597321543152,
+        "duration" : 30483
+      }
+    } ]
+  },
+  "b271002ff1135ab01dc29e7d9a915397" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "75c9603b32260077",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/75c9603b32260077",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597131531915,
+        "stop" : 1597131532061,
+        "duration" : 146
+      }
+    }, {
+      "uid" : "f982086802b0be10",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/f982086802b0be10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597131531915,
+        "stop" : 1597131532061,
+        "duration" : 146
+      }
+    }, {
+      "uid" : "ba986a3531a048c3",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/ba986a3531a048c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597131531915,
+        "stop" : 1597131532061,
+        "duration" : 146
+      }
+    }, {
+      "uid" : "fbd8b6f4789d50b6",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/fbd8b6f4789d50b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597131531915,
+        "stop" : 1597131532061,
+        "duration" : 146
+      }
+    } ]
+  },
+  "96fb3406449b280a9c443480c4d782df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "149c47258038e4d8",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/149c47258038e4d8",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597131249677,
+        "stop" : 1597131249678,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "987fde5f3c10df23",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/987fde5f3c10df23",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597131249677,
+        "stop" : 1597131249678,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7beba0431c447347",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/7beba0431c447347",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597131249677,
+        "stop" : 1597131249678,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1452062896753fe8",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/1452062896753fe8",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597131249677,
+        "stop" : 1597131249678,
+        "duration" : 1
+      }
+    } ]
+  },
+  "6d79d438f42809291584d56f24f94cfc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "1b475afee90d9fbc",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/1b475afee90d9fbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130770034,
+        "stop" : 1597130772127,
+        "duration" : 2093
+      }
+    }, {
+      "uid" : "8a02467e011fd9fc",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/8a02467e011fd9fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130770034,
+        "stop" : 1597130772127,
+        "duration" : 2093
+      }
+    }, {
+      "uid" : "6f8d916f29239392",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/6f8d916f29239392",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130770034,
+        "stop" : 1597130772127,
+        "duration" : 2093
+      }
+    }, {
+      "uid" : "c881dc546954a3d2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/c881dc546954a3d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130770034,
+        "stop" : 1597130772127,
+        "duration" : 2093
+      }
+    } ]
+  },
+  "c87b080bf05773d94924859efc5c8985" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "67d8fc09157a01de",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/67d8fc09157a01de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597131303885,
+        "stop" : 1597131316400,
+        "duration" : 12515
+      }
+    }, {
+      "uid" : "80ecc9800ef5a328",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/80ecc9800ef5a328",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597131303885,
+        "stop" : 1597131316400,
+        "duration" : 12515
+      }
+    }, {
+      "uid" : "cafaed7291df1f1c",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/cafaed7291df1f1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597131303885,
+        "stop" : 1597131316400,
+        "duration" : 12515
+      }
+    }, {
+      "uid" : "6f05cf83500db408",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/6f05cf83500db408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597131303885,
+        "stop" : 1597131316400,
+        "duration" : 12515
+      }
+    } ]
+  },
+  "ac495583b2c8b0dd354e74a6e2b7ff08" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "1524ed728278c4be",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/1524ed728278c4be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772472,
+        "stop" : 1597130772576,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "3815ed26acbe8ae3",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/3815ed26acbe8ae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772472,
+        "stop" : 1597130772576,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "6cf96d6aee4ef2c2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/6cf96d6aee4ef2c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772472,
+        "stop" : 1597130772576,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "6ea2a8dd55fba2f9",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/6ea2a8dd55fba2f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772472,
+        "stop" : 1597130772576,
+        "duration" : 104
+      }
+    } ]
+  },
+  "19ed7f00d8c00595e515150a3dac0e99" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "5b4e002803baf434",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/5b4e002803baf434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597491001738,
+        "stop" : 1597491065423,
+        "duration" : 63685
+      }
+    }, {
+      "uid" : "c8726d1b3c846afd",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/38/allure/#testresult/c8726d1b3c846afd",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"bx-next\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.05 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57920}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir29944_34737309}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: ea685b50dc2aa7a2192522e146e091b9\n*** Element info: {Using=class name, value=bx-next}",
+      "time" : {
+        "start" : 1597321774294,
+        "stop" : 1597321784826,
+        "duration" : 10532
+      }
+    }, {
+      "uid" : "b1752818ba8c30be",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/37/allure/#testresult/b1752818ba8c30be",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 110 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57420}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir10812_1352747831}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: 44f57fd52e802b883d53cc165a421151",
+      "time" : {
+        "start" : 1597321553055,
+        "stop" : 1597321596249,
+        "duration" : 43194
+      }
+    }, {
+      "uid" : "ec26f2bb36be1b47",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/36/allure/#testresult/ec26f2bb36be1b47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597318893837,
+        "stop" : 1597318941499,
+        "duration" : 47662
+      }
+    }, {
+      "uid" : "a08b34931e8a2dc4",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/35/allure/#testresult/a08b34931e8a2dc4",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 344 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55379}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir15608_618723791}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: b85f2f7c059e6614a710407f9853b0ae",
+      "time" : {
+        "start" : 1597318669610,
+        "stop" : 1597318710556,
+        "duration" : 40946
+      }
+    }, {
+      "uid" : "876d08cb9e30bea6",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/34/allure/#testresult/876d08cb9e30bea6",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 441 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:55119}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir6724_1616252959}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: 895e8bcfb823da8b2c8170fa35ad9e4c",
+      "time" : {
+        "start" : 1597318533188,
+        "stop" : 1597318574111,
+        "duration" : 40923
+      }
+    } ]
+  },
+  "7ad7164a252e6a5f40ff94b5241ebd85" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 12
+    },
+    "items" : [ {
+      "uid" : "fb5b84199d4a8f92",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/33/allure/#testresult/fb5b84199d4a8f92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597306289510,
+        "stop" : 1597306299973,
+        "duration" : 10463
+      }
+    }, {
+      "uid" : "da15943836a3dd62",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/32/allure/#testresult/da15943836a3dd62",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id='header']/div[2]/div/div/nav/div[1]/a\"}\n  (Session info: content shell=)\n  (Driver info: chromedriver=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.07 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36 (7ea271f92018b1eeb8e70ec6de8c29f9758a0c05), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir28448_14847}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 082ed87d0bf76545219faf04dd3ade07\n*** Element info: {Using=xpath, value=//*[@id='header']/div[2]/div/div/nav/div[1]/a}",
+      "time" : {
+        "start" : 1597306131256,
+        "stop" : 1597306141616,
+        "duration" : 10360
+      }
+    }, {
+      "uid" : "dfb271ce14d3ed69",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/dfb271ce14d3ed69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305493766,
+        "stop" : 1597305502245,
+        "duration" : 8479
+      }
+    }, {
+      "uid" : "4999cf40c2a4b9a4",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/4999cf40c2a4b9a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305493766,
+        "stop" : 1597305502245,
+        "duration" : 8479
+      }
+    }, {
+      "uid" : "828413d684c875e7",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/828413d684c875e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305334562,
+        "stop" : 1597305343526,
+        "duration" : 8964
+      }
+    }, {
+      "uid" : "2d2e431c36415803",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/2d2e431c36415803",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305198492,
+        "stop" : 1597305207736,
+        "duration" : 9244
+      }
+    }, {
+      "uid" : "7e03771ab0473095",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/27/allure/#testresult/7e03771ab0473095",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597129879975,
+        "stop" : 1597129886958,
+        "duration" : 6983
+      }
+    }, {
+      "uid" : "5733ca2c258bc8c",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/26/allure/#testresult/5733ca2c258bc8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597124687058,
+        "stop" : 1597124692782,
+        "duration" : 5724
+      }
+    }, {
+      "uid" : "3595d973007a0dd",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/25/allure/#testresult/3595d973007a0dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597124452094,
+        "stop" : 1597124457599,
+        "duration" : 5505
+      }
+    }, {
+      "uid" : "8b2bdef7e518149f",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/24/allure/#testresult/8b2bdef7e518149f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.06 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50639}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir27632_1793081088}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: bbc9eaee4e0172270a920b9d6569eb0a\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a}",
+      "time" : {
+        "start" : 1597124187886,
+        "stop" : 1597124199907,
+        "duration" : 12021
+      }
+    }, {
+      "uid" : "e5cf03d0f1b354e8",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/23/allure/#testresult/e5cf03d0f1b354e8",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.03 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50575}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir19208_864034127}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: e7576c2089bd0b37125d132d325c37da\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a}",
+      "time" : {
+        "start" : 1597123741297,
+        "stop" : 1597123753449,
+        "duration" : 12152
+      }
+    }, {
+      "uid" : "a04a73df827c7f2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/22/allure/#testresult/a04a73df827c7f2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a\"}\n  (Session info: chrome=84.0.4147.89)\n  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.03 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'LAPTOP-5CEH4ICU', ip: '192.168.1.111', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49969}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=C:\\Users\\vered\\AppData\\Local\\Temp\\scoped_dir18900_154399942}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.89, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]\nSession ID: baf4130a9786c82a8e530a30ee3ec239\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a}",
+      "time" : {
+        "start" : 1597122809429,
+        "stop" : 1597122821617,
+        "duration" : 12188
+      }
+    } ]
+  },
+  "d8dbf5ddacda4b24e805e036c0cf2dff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "75c4d6ab9675f66d",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/75c4d6ab9675f66d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772391,
+        "stop" : 1597130772467,
+        "duration" : 76
+      }
+    }, {
+      "uid" : "77d114ad96b11b24",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/77d114ad96b11b24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772391,
+        "stop" : 1597130772467,
+        "duration" : 76
+      }
+    }, {
+      "uid" : "e3eb30d87b025106",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/e3eb30d87b025106",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772391,
+        "stop" : 1597130772467,
+        "duration" : 76
+      }
+    }, {
+      "uid" : "663c17db163152bb",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/663c17db163152bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597130772391,
+        "stop" : 1597130772467,
+        "duration" : 76
+      }
+    } ]
+  },
+  "bd30d8e072f3d35441f04d958b76dfe1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b5a3e0fe0f9511b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/7b5a3e0fe0f9511b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597490716831,
+        "stop" : 1597490716942,
+        "duration" : 111
+      }
+    } ]
+  },
+  "f9ccea00782c7ba27835bd5139532e5b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e590b7019fc1bef",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/39/allure/#testresult/6e590b7019fc1bef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597490712414,
+        "stop" : 1597490716355,
+        "duration" : 3941
+      }
+    } ]
+  },
+  "99231108c74d1b1d1feb66775d620020" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 11
+    },
+    "items" : [ {
+      "uid" : "56e7cded83224eae",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/33/allure/#testresult/56e7cded83224eae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597306299992,
+        "stop" : 1597306301422,
+        "duration" : 1430
+      }
+    }, {
+      "uid" : "8a184976d7e9983",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/31/allure/#testresult/8a184976d7e9983",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305502259,
+        "stop" : 1597305503540,
+        "duration" : 1281
+      }
+    }, {
+      "uid" : "54f601118a646706",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/30/allure/#testresult/54f601118a646706",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305502259,
+        "stop" : 1597305503540,
+        "duration" : 1281
+      }
+    }, {
+      "uid" : "71322ded195af851",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/29/allure/#testresult/71322ded195af851",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305343546,
+        "stop" : 1597305344934,
+        "duration" : 1388
+      }
+    }, {
+      "uid" : "359b69789cee74bd",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/28/allure/#testresult/359b69789cee74bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597305207747,
+        "stop" : 1597305208919,
+        "duration" : 1172
+      }
+    }, {
+      "uid" : "d778ef720484caf2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/27/allure/#testresult/d778ef720484caf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597129886963,
+        "stop" : 1597129887666,
+        "duration" : 703
+      }
+    }, {
+      "uid" : "7a3a811dff2d5d09",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/26/allure/#testresult/7a3a811dff2d5d09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597124692788,
+        "stop" : 1597124693361,
+        "duration" : 573
+      }
+    }, {
+      "uid" : "9f52965725bd3fe7",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/25/allure/#testresult/9f52965725bd3fe7",
+      "status" : "failed",
+      "statusDetails" : "Images are not the same",
+      "time" : {
+        "start" : 1597124457603,
+        "stop" : 1597124458564,
+        "duration" : 961
+      }
+    }, {
+      "uid" : "a87f21708a571d95",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/24/allure/#testresult/a87f21708a571d95",
+      "status" : "failed",
+      "statusDetails" : "Images are not the same",
+      "time" : {
+        "start" : 1597123753455,
+        "stop" : 1597123754600,
+        "duration" : 1145
+      }
+    }, {
+      "uid" : "2994a892b681c40b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/23/allure/#testresult/2994a892b681c40b",
+      "status" : "failed",
+      "statusDetails" : "Images are not the same",
+      "time" : {
+        "start" : 1597123753455,
+        "stop" : 1597123754600,
+        "duration" : 1145
+      }
+    }, {
+      "uid" : "2206f5d25c005c05",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20Web/22/allure/#testresult/2206f5d25c005c05",
+      "status" : "failed",
+      "statusDetails" : "Images are not the same",
+      "time" : {
+        "start" : 1597122821627,
+        "stop" : 1597122822765,
+        "duration" : 1138
+      }
+    } ]
+  }
+}

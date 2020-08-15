@@ -1,0 +1,168 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-5CEH4ICU",
+    "children" : [ {
+      "name" : "21436@LAPTOP-5CEH4ICU.main(1)",
+      "children" : [ {
+        "name" : "Getting Name and LastName from Employees DB",
+        "uid" : "c35454e9234e0c91",
+        "parentUid" : "fc043f524fb705bd749f0a78180f0ad1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597490879562,
+          "stop" : 1597490879831,
+          "duration" : 269
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "fc043f524fb705bd749f0a78180f0ad1"
+    }, {
+      "name" : "29036@LAPTOP-5CEH4ICU.main(1)",
+      "children" : [ {
+        "name" : "Test01: User Registration to Automation Practice",
+        "uid" : "5af14946d28efca2",
+        "parentUid" : "8a6cdad7057bb8b3a5c8ec9b748ce1ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597490964049,
+          "stop" : 1597490991755,
+          "duration" : 27706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: User Chooses Wearing Products",
+        "uid" : "5b4e002803baf434",
+        "parentUid" : "8a6cdad7057bb8b3a5c8ec9b748ce1ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597491001738,
+          "stop" : 1597491065423,
+          "duration" : 63685
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: User Edits Information",
+        "uid" : "c1daf5f81ee50a6b",
+        "parentUid" : "8a6cdad7057bb8b3a5c8ec9b748ce1ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597491065430,
+          "stop" : 1597491074452,
+          "duration" : 9022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test05: Verify Logo",
+        "uid" : "4f754ff9271c265d",
+        "parentUid" : "8a6cdad7057bb8b3a5c8ec9b748ce1ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597491074455,
+          "stop" : 1597491075737,
+          "duration" : 1282
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: User SignOut and then Signin to Automation Practice",
+        "uid" : "80125dabc028b27e",
+        "parentUid" : "8a6cdad7057bb8b3a5c8ec9b748ce1ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597490991971,
+          "stop" : 1597491001734,
+          "duration" : 9763
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "8a6cdad7057bb8b3a5c8ec9b748ce1ef"
+    }, {
+      "name" : "31204@LAPTOP-5CEH4ICU.main(1)",
+      "children" : [ {
+        "name" : "Test03: Update and Verify Existing Team",
+        "uid" : "7b5a3e0fe0f9511b",
+        "parentUid" : "9da987e237905ceb6e7122707c018fa6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597490716831,
+          "stop" : 1597490716942,
+          "duration" : 111
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test04: Delete and Verify Team",
+        "uid" : "2525e2392b18f231",
+        "parentUid" : "9da987e237905ceb6e7122707c018fa6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597490716948,
+          "stop" : 1597490717079,
+          "duration" : 131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get Admin's Details from Grafana Server",
+        "uid" : "6e590b7019fc1bef",
+        "parentUid" : "9da987e237905ceb6e7122707c018fa6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597490712414,
+          "stop" : 1597490716355,
+          "duration" : 3941
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test02: Add and Verify a New Team",
+        "uid" : "9cd333c681ccafb6",
+        "parentUid" : "9da987e237905ceb6e7122707c018fa6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597490716592,
+          "stop" : 1597490716825,
+          "duration" : 233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "9da987e237905ceb6e7122707c018fa6"
+    }, {
+      "name" : "26340@LAPTOP-5CEH4ICU.main(1)",
+      "children" : [ {
+        "name" : "Verify Electron App Version Number",
+        "uid" : "2371116fef5334f1",
+        "parentUid" : "c29e1b7026ace261762c97afd891b7b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597490912068,
+          "stop" : 1597490912555,
+          "duration" : 487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "c29e1b7026ace261762c97afd891b7b4"
+    } ],
+    "uid" : "cfa792a80f5b32c17702c79acb11c559"
+  } ]
+}

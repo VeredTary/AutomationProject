@@ -1,0 +1,161 @@
+{
+  "uid" : "c35454e9234e0c91",
+  "name" : "Getting Name and LastName from Employees DB",
+  "fullName" : "SanityTests.EmployeesDB.Test01_EmployeesDB",
+  "historyId" : "ad924012271deb863684c34697ae351a",
+  "time" : {
+    "start" : 1597490879562,
+    "stop" : 1597490879831,
+    "duration" : 269
+  },
+  "description" : "Test Description: Getting Name and LastName from Employees DB",
+  "descriptionHtml" : "<p>Test Description: Getting Name and LastName from Employees DB</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1597490865561,
+      "stop" : 1597490879494,
+      "duration" : 13933
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Getting Name and LastName from Employees DB",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Get Name and LastName from Employees DB",
+      "time" : {
+        "start" : 1597490879682,
+        "stop" : 1597490879795,
+        "duration" : 113
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get Data from DB",
+        "time" : {
+          "start" : 1597490879698,
+          "stop" : 1597490879794,
+          "duration" : 96
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Query",
+          "value" : "SELECT name, lastname FROM Employees WHERE id=1"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "Verify String is Displayed",
+      "time" : {
+        "start" : 1597490879803,
+        "stop" : 1597490879829,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Value",
+        "value" : "vered"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1597490879975,
+      "stop" : 1597490881090,
+      "duration" : 1115
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.EmployeesDB"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.EmployeesDB"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test01_EmployeesDB"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "DB Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.EmployeesDB"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5CEH4ICU"
+  }, {
+    "name" : "thread",
+    "value" : "21436@LAPTOP-5CEH4ICU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c35454e9234e0c91.json",
+  "parameterValues" : [ "web" ]
+}

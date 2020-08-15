@@ -1,0 +1,184 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "API Tests",
+      "children" : [ {
+        "name" : "SanityTests.GrafanaAPI",
+        "children" : [ {
+          "name" : "Test01: Get Admin's Details from Grafana Server",
+          "uid" : "6e590b7019fc1bef",
+          "parentUid" : "a2aae38762518004cfed2ed15758ac2b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597490712414,
+            "stop" : 1597490716355,
+            "duration" : 3941
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "Test02: Add and Verify a New Team",
+          "uid" : "9cd333c681ccafb6",
+          "parentUid" : "a2aae38762518004cfed2ed15758ac2b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597490716592,
+            "stop" : 1597490716825,
+            "duration" : 233
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "Test03: Update and Verify Existing Team",
+          "uid" : "7b5a3e0fe0f9511b",
+          "parentUid" : "a2aae38762518004cfed2ed15758ac2b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597490716831,
+            "stop" : 1597490716942,
+            "duration" : 111
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "Test04: Delete and Verify Team",
+          "uid" : "2525e2392b18f231",
+          "parentUid" : "a2aae38762518004cfed2ed15758ac2b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597490716948,
+            "stop" : 1597490717079,
+            "duration" : 131
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        } ],
+        "uid" : "a2aae38762518004cfed2ed15758ac2b"
+      } ],
+      "uid" : "4ed70f54fda3286e80a05bd83e56a3ad"
+    }, {
+      "name" : "DB Tests",
+      "children" : [ {
+        "name" : "SanityTests.EmployeesDB",
+        "children" : [ {
+          "name" : "Getting Name and LastName from Employees DB",
+          "uid" : "c35454e9234e0c91",
+          "parentUid" : "1b75bd97a79fdb512d333f10957806a2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597490879562,
+            "stop" : 1597490879831,
+            "duration" : 269
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        } ],
+        "uid" : "1b75bd97a79fdb512d333f10957806a2"
+      } ],
+      "uid" : "7675b87e710cbf64d6cae70a631b3997"
+    }, {
+      "name" : "Electron Tests",
+      "children" : [ {
+        "name" : "SanityTests.ElectronDemo",
+        "children" : [ {
+          "name" : "Verify Electron App Version Number",
+          "uid" : "2371116fef5334f1",
+          "parentUid" : "c29f80009c7c8bb8548f5382ada27950",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597490912068,
+            "stop" : 1597490912555,
+            "duration" : 487
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "electron" ]
+        } ],
+        "uid" : "c29f80009c7c8bb8548f5382ada27950"
+      } ],
+      "uid" : "88dd1c8a90831c85bd7e904fb72432f6"
+    }, {
+      "name" : "Web Tests",
+      "children" : [ {
+        "name" : "SanityTests.automationpracticeWeb",
+        "children" : [ {
+          "name" : "Test01: User Registration to Automation Practice",
+          "uid" : "5af14946d28efca2",
+          "parentUid" : "03b39ede54ba483bb79524b034e2f0cc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597490964049,
+            "stop" : 1597490991755,
+            "duration" : 27706
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "Test02: User SignOut and then Signin to Automation Practice",
+          "uid" : "80125dabc028b27e",
+          "parentUid" : "03b39ede54ba483bb79524b034e2f0cc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597490991971,
+            "stop" : 1597491001734,
+            "duration" : 9763
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "Test03: User Chooses Wearing Products",
+          "uid" : "5b4e002803baf434",
+          "parentUid" : "03b39ede54ba483bb79524b034e2f0cc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597491001738,
+            "stop" : 1597491065423,
+            "duration" : 63685
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "Test04: User Edits Information",
+          "uid" : "c1daf5f81ee50a6b",
+          "parentUid" : "03b39ede54ba483bb79524b034e2f0cc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597491065430,
+            "stop" : 1597491074452,
+            "duration" : 9022
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "Test05: Verify Logo",
+          "uid" : "4f754ff9271c265d",
+          "parentUid" : "03b39ede54ba483bb79524b034e2f0cc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597491074455,
+            "stop" : 1597491075737,
+            "duration" : 1282
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        } ],
+        "uid" : "03b39ede54ba483bb79524b034e2f0cc"
+      } ],
+      "uid" : "021ae6ebaf24613400055f41a8f6b406"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

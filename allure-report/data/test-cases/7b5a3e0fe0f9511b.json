@@ -1,0 +1,233 @@
+{
+  "uid" : "7b5a3e0fe0f9511b",
+  "name" : "Test03: Update and Verify Existing Team",
+  "fullName" : "SanityTests.GrafanaAPI.Test03_UpdateTeamandVerify",
+  "historyId" : "bd30d8e072f3d35441f04d958b76dfe1",
+  "time" : {
+    "start" : 1597490716831,
+    "stop" : 1597490716942,
+    "duration" : 111
+  },
+  "description" : "Test Description: Update and Verify an Existing Team in Grafana",
+  "descriptionHtml" : "<p>Test Description: Update and Verify an Existing Team in Grafana</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "StartSession",
+    "time" : {
+      "start" : 1597490707936,
+      "stop" : 1597490712283,
+      "duration" : 4347
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Update and Verify an Existing Team in Grafana",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Update Team in Grafana",
+      "time" : {
+        "start" : 1597490716831,
+        "stop" : 1597490716883,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Update Data in Server",
+        "time" : {
+          "start" : 1597490716831,
+          "stop" : 1597490716883,
+          "duration" : 52
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Params",
+          "value" : "{\"name\":\"VeredsTeam\",\"email\":\"Vered@test.com\"}"
+        }, {
+          "name" : "Resource",
+          "value" : "/api/teams/15"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "Name",
+        "value" : "VeredsTeam"
+      }, {
+        "name" : "Email",
+        "value" : "Vered@test.com"
+      }, {
+        "name" : "id",
+        "value" : "15"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "Get Team Data from Server",
+      "time" : {
+        "start" : 1597490716883,
+        "stop" : 1597490716942,
+        "duration" : 59
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Get Data from Server",
+        "time" : {
+          "start" : 1597490716883,
+          "stop" : 1597490716914,
+          "duration" : 31
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "ParamValues",
+          "value" : "/api/teams/search"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Extract Values from Json Format",
+        "time" : {
+          "start" : 1597490716914,
+          "stop" : 1597490716942,
+          "duration" : 28
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "response",
+          "value" : "io.restassured.internal.RestAssuredResponseImpl@67784537"
+        }, {
+          "name" : "Path",
+          "value" : "teams[0].name"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "JPath",
+        "value" : "teams[0].name"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 2
+    }, {
+      "name" : "Verify Text with Text",
+      "time" : {
+        "start" : 1597490716942,
+        "stop" : 1597490716942,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "ActualText",
+        "value" : "VeredsTeam"
+      }, {
+        "name" : "ExpectedText",
+        "value" : "VeredsTeam"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 6
+  },
+  "afterStages" : [ {
+    "name" : "EndSession",
+    "time" : {
+      "start" : 1597490717081,
+      "stop" : 1597490717083,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.GrafanaAPI"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.GrafanaAPI"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test03_UpdateTeamandVerify"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "API Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.GrafanaAPI"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5CEH4ICU"
+  }, {
+    "name" : "thread",
+    "value" : "31204@LAPTOP-5CEH4ICU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "api"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b5a3e0fe0f9511b.json",
+  "parameterValues" : [ "api" ]
+}
